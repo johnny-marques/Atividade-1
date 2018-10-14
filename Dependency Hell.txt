@@ -1,0 +1,18 @@
+O que é o inferno das dependências? 
+O inferno de dependências é uma designação dada a complicações no lidar com pacotes de software.
+
+O que houve no caso do Jarbas? fale um pouco deste projeto.
+ 
+O que é o PyUP? 
+É um programa que faz versionamento de arquivos em Python. 
+Ele atualiza automaticamente as alterações feitas no código Python criando pull requests no Github contendo Changelogs descrevendo o que foi alterado. 
+Além disso, ele efetua testes de segurança e falhas nas atualizações das dependências.
+
+Como ele pode contribuir para o gerenciamento da configuração de software? 
+
+Procure por serviços semelhantes.
+
+Em qual tarefa do gerenciamento de software o PyUP pode colaborar verifique no material da aula 2?
+No controle de versão
+
+Como o versionamento semântico ajudou no problema?
