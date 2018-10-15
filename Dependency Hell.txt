@@ -10,12 +10,15 @@ Ele atualiza automaticamente as alterações feitas no código Python criando pull 
 Além disso, ele efetua testes de segurança e falhas nas atualizações das dependências.
 
 Como ele pode contribuir para o gerenciamento da configuração de software? 
-Ele serve para gerenciar as alterações feitas nos códigos dos softwares.
+Ele serve para gerenciar as alterações feitas nos códigos dos softwares, evitando que o ambiente de programação se torne caótico e versões se tornem incompreensíveis e/ou complicadas.
+
 
 Procure por serviços semelhantes.
-
+GreenKeeper, Kuskos e Depfu.
 Em qual tarefa do gerenciamento de software o PyUP pode colaborar verifique no material da aula 2?
-No controle de versão.
+No controle de versão onde se faz um histórico documentado das alterações feitas 
+No controle de mudanças onde há um responsável por aceitar a nova versão criada com base nos testes e Changelog.
 
 Como o versionamento semântico ajudou no problema?
 Com o versionamento semântico foi possível saber qual a versão anterior que o código foi considerado estável e funcional.
+Através do versionamento semântico, versão 2.0 no caso do blog, é possível saber se o código novo é compatível com a versão anterior, se há adição de funcionalidades ou se apenas foram corrigidos bugs.
